@@ -1,4 +1,8 @@
-Faça uma aplicação ocr em python
+                                                                        Faça uma aplicação ocr em python<br>
+
+
+Install Windows: https://github.com/UB-Mannheim/tesseract/wikihttps://github.com/UB-Mannheim/tesseract/wiki
+                                                                        
 ChatGPT
 Claro! Vamos criar uma aplicação básica de OCR (Reconhecimento Óptico de Caracteres) em Python usando a biblioteca Tesseract. Abaixo, seguem os passos para instalar as dependências e escrever o código para a aplicação.
 
