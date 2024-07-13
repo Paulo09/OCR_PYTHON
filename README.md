@@ -1,4 +1,4 @@
-                                                                        Faça uma aplicação ocr em python<br>
+                                                  Faça uma aplicação ocr em python<br>
 
 
 Install Windows: https://github.com/UB-Mannheim/tesseract/wikihttps://github.com/UB-Mannheim/tesseract/wiki
